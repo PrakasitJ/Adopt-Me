@@ -11,7 +11,7 @@ Git for sum up all repository that use in Adopt Me project.
   - NGINX Web Server, ReverseProxy
 
 ## Storage and Database
-  - [Redis Cache Server with Go API Gateway](https://github.com/Kriwn/Go_Reverse_Proxy)
+  - [Redis Cache Server with Go Fiber API Gateway](https://github.com/Kriwn/Go_Reverse_Proxy)
   - [S3, CDN with Elysia API Gateway](https://github.com/PrakasitJ/proxy-server-elysia)
   - [S3, CDN Streaming with Express API Gateway](https://github.com/PrakasitJ/proxy-server-express)
   - Redis
@@ -19,7 +19,7 @@ Git for sum up all repository that use in Adopt Me project.
   - Postgres SQL
 
 ## Helper Service
-  - [Image Compressor with Go API Gateway](https://github.com/Kriwn/Go_Compressor)
+  - [Image Compressor with Go Fiber API Gateway](https://github.com/Kriwn/Go_Compressor)
   - Cloudfare DNS, Cache
 
 ## Members
